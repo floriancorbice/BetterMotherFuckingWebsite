@@ -1,5 +1,37 @@
+<script>
+function init() 
+{   var count=1;
+    var counter=setInterval(timer,1000);
+        function timer(){
+            count=count-1;
+            if(count==0){
+                alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
+                ;     
+                return;
+            } 
+        }
+    }
+    
+    window.onload = init;
+</script>
+<head>
+<script language="javascript">
+function change(couleur) {
+document.bgColor=couleur
+}
+</script>
+<style>
+span {background:black;color:white;font-family:arial;font-size:15;}
+</style>
+</head>
+<body>
+<input type="button" value="Mode Psychédélique" onclick="change('magenta')">
+
+</script>
+ 
 <!DOCTYPE html>
-<html>
+
+<html> 
 <head>
 <meta
 charset="utf-8"><meta
