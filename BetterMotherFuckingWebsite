@@ -1,6 +1,6 @@
 <script>
 function init() 
-{   var count=1;
+{   var count=3;
     var counter=setInterval(timer,1000);
         function timer(){
             count=count-1;
